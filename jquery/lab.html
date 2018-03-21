@@ -1,0 +1,25 @@
+<html>
+	<head>
+		<title>Como usar jQuery </title>
+		
+		<meta http-equiv="Content-type" content="text/html; charset=UTF-8"/>
+		
+		<script src="http://code.jquery.com/jquery-3.2.1.min.js"></script>
+		<script>
+			alert("Este alert fue lanzado al inicio de todo el proceso");
+			//codigo
+			$(document).ready(function(){
+				$(".miclase").css({
+					"color": "yellow",
+					"font-size": "32pt",
+					"font-family": "Comics Sans",
+					"border": "2px solid red"
+				});
+				$(".miclase").css("background-color","blue");
+			});
+		</script>
+	</head>
+	<body>
+		<div class ="miclase">Como usar jQuery</div>
+	</body>
+</html>
