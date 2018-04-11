@@ -1,0 +1,18 @@
+body{
+	background-color: MediumSeaGreen;
+}
+
+.titulos{
+	background-color: green;
+	color: cyan;
+}
+
+.subtitulos{
+	background-color: SlateBlue;
+	color: white;
+}
+
+.partes{
+	background-color: DodgerBlue;
+	color: white;
+}

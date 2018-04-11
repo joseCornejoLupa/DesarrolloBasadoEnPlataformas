@@ -1,0 +1,21 @@
+body{
+	background-color: MediumSeaGreen;
+}
+
+.titulos{
+	background-color: green;
+	color: cyan;
+	font-family: fontawesome;
+}
+
+.subtitulos{
+	background-color: SlateBlue;
+	color: white;
+	font-family:fontawesome
+}
+
+.partes{
+	background-color: DodgerBlue;
+	color: white;
+	font-family:fontawesome;
+}
